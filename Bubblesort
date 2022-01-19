@@ -1,6 +1,9 @@
 Bubble sort is a simple sorting algorithm.
 This sorting algorithm is a comparison-based algorithm in which each pair of adjacent elements is compared and the elements are swapped if they are not in order.
 C# program to sort a list of elements using bubblesort
+
+
+
 using System;
 namespace BubbleSort {
    class Sortingprgrm{
